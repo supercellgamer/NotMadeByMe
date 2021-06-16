@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@supercellgamer 
-A1sky
-/
-LibrarysRBLX
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-LibrarysRBLX/Lenexa.lua
-@A1sky
-A1sky Update Lenexa.lua
-Latest commit 7af0e64 25 minutes ago
- History
- 1 contributor
-522 lines (440 sloc)  18.6 KB
-  
 local CreateLibrary = function()
     local Library = {}
     return (Library)
@@ -550,15 +521,3 @@ Tab2:Label("Credits: ArskyCache#5254")
 Tab2:Label("Discord: discord.gg/Kenta")
 
 Main:SetHomePage("Tab 1")
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
